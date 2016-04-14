@@ -3,6 +3,7 @@
 Xamarin.Android 时间轴效果，改写https://github.com/vipulasri/Timeline-View。
 
 实现效果：
+
 ![image](https://github.com/MyueX/Xamarin.TimeLineView/blob/master/QQ20160414-0.png)
 
 使用结合RecyclerView使用，在item定义中添加代码：
